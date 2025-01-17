@@ -30,7 +30,7 @@ axios.get(
             myNav("/home");
         }
         else{
-            setErrorMes("Crendentials are not correct!!!!");
+            setErrorMes("UserName and Password are not correct!!!!");
         }
     }
 );
